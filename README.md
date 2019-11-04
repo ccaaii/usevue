@@ -1,4 +1,21 @@
-# usevue
-some vue components files
+# vuebase
 
-编辑这个文件，是为了学会使用，如何在分支上更改文件，以及，如何在分支上更改文件稳定后，再合并到主干。--eidt分支上的第一次修改。
+> vue+vue-router
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
